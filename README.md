@@ -71,6 +71,14 @@ To run the "main.ipynb" file, Jupyter Notebook needs to be installed.
 
 The program can be run directly by running "main.py" from the script folder. You can also run the "main.ipynb" file from script folder using Jupyter Notebook.
 
+## Project Requirements Fulfilled:
+1. Read CSV, 
+2. Cleaned Data, 
+3. Used Tableau, 
+4. Created venv, 
+5. Annotated JPY and wrote clear README.   
+ALL FUNCTIONAL WOOOO!!!!!!
+
 
 ## Data Sources
 [CSV: 2021 and 2022 Tagging and Mexico Tagging Data](https://monarchwatch.org/tagging/)
