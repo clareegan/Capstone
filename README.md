@@ -62,7 +62,10 @@ As my Tableau visualizations demonstrate, the majority of Monarchs live and migr
 
 The following packages will be required to run the program:
 pandas,
-ipynb </br> 
+numpy,
+matplotlib.pyplot
+scipy
+seaborn</br> 
 
 To run the "main.ipynb" file, Jupyter Notebook needs to be installed. 
 
